@@ -1,3 +1,5 @@
+
+asdasd
 [![Discord](https://img.shields.io/discord/895561413819498556)](https://discord.gg/dCgStTDaet)  
 
 # Note: I tried reaching out to AGS for their opinion. I will keep you posted on their answer.
